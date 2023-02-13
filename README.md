@@ -1,14 +1,17 @@
 # Clase1
 ## Comando basicos terminal
-```ls``` Listado de archivo de una carpeta. 
-```clear```
- 
+#
+```
+funcion que calcula el area de un rectangulo 
 
-# Comandos de Git 
+```params```
+-x(float) es la base de un rectangulo 
+-y(float) es la altura de un rectangulo 
 
-git add: guardar los cambios 
+```return```
+-area(float): es el area de un rectangulo 
 
-git commit -m "
-[CREATE] creacion del repo" : guardar datos en otra sesion 
+```
 
-Este es un nuevo cambio 
+
+
